@@ -49,7 +49,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 Add aditional notes to deploy this on a live system
 
-# Built With
+## Built With
 
 [Contributor Covenant](https://www.contributor-covenant.org) - Used for the Code of Conduct
 
@@ -65,3 +65,7 @@ See also the list of
 [contributors](https://github.com/FranciscoCoder/todo-list)
 
 who participated in this project
+
+# License
+
+This project is licensed under the [CCo 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.es) Creative Commons License - see the [LICENSE.md](https://creativecommons.org/about/cclicenses/) file for details
