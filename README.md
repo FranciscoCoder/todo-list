@@ -38,7 +38,7 @@ Add aditional notes to deploy this on a live system
 
 [Contributor Covenant](https://www.contributor-covenant.org) - Used for the Code of Conduct
 
-[Creative Commons](https://www.creativecommons.org) - Used to choose the license
+[Creative Commons](https://www.creativecgitommons.org) - Used to choose the license
 
 ## Authors
 
