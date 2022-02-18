@@ -11,3 +11,4 @@ This is the checklist of tasks to make a good readme:
   - [ ] **Deployment** @FranciscoCoder
   - [ ] Built With @VivagaCS
   - [ ] **Authors** @FranciscoCoder
+  - [ ] License @VivagaCS
