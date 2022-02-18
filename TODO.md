@@ -30,3 +30,17 @@ Requirements for the software and other tools to built, test and push
 [Example 1](https://www.google.com) 
 
 [Example 2](https://www.google.com) 
+
+# Installing
+
+A step by step of examples that tell you how to get a development environment running
+
+Say what the step will be
+
+[Give the example]
+
+And repeat
+
+[untill finished]
+
+End with an example of getting some data out of the system or using it for a little demo
