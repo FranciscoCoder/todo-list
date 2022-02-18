@@ -54,3 +54,14 @@ Add aditional notes to deploy this on a live system
 [Contributor Covenant](https://www.contributor-covenant.org) - Used for the Code of Conduct
 
 [Creative Commons](https://www.creativecommons.org) - Used to choose the license
+
+## Authors
+
+- **Programmer A** - *Provided README Template* - [Profile A](https://github.com/FranciscoCoder)
+- **Programmer B** - *Provided README Template* - [Profile B](https://github.com/VivagaCS)
+
+See also the list of
+
+[contributors](https://github.com/FranciscoCoder/todo-list)
+
+who participated in this project
