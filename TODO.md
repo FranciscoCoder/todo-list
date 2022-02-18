@@ -3,15 +3,15 @@
 This is the checklist of tasks to make a good readme:
 
 ## Making a good readme
-- [ ] Project Title @VivagaCS
+- [ ] **Project Title** @VivagaCS
   - [ ] **Description** @FranciscoCoder
-  - [ ] Getting Started @VivagaCS
+  - [ ] **Getting Started** @VivagaCS
       - [ ] **Prerequisites** @FranciscoCoder
-      - [ ] Installing @VivagaCS
+      - [ ] **Installing** @VivagaCS
   - [ ] **Deployment** @FranciscoCoder
-  - [ ] Built With @VivagaCS
+  - [ ] **Built With** @VivagaCS
   - [ ] **Authors** @FranciscoCoder
-  - [ ] License @VivagaCS
+  - [ ] **License** @VivagaCS
 
 # Project Title
 
@@ -44,3 +44,7 @@ And repeat
 [untill finished]
 
 End with an example of getting some data out of the system or using it for a little demo
+
+## Deployment
+
+Add aditional notes to deploy this on a live system
