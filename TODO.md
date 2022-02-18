@@ -7,3 +7,4 @@ This is the checklist of tasks to make a good readme:
   - [ ] **Description** @FranciscoCoder
   - [ ] Getting Started @VivagaCS
       - [ ] **Prerequisites** @FranciscoCoder
+      - [ ] Installing @VivagaCS
