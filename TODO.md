@@ -10,3 +10,4 @@ This is the checklist of tasks to make a good readme:
       - [ ] Installing @VivagaCS
   - [ ] **Deployment** @FranciscoCoder
   - [ ] Built With @VivagaCS
+  - [ ] **Authors** @FranciscoCoder
