@@ -16,7 +16,7 @@ Requirements for the software and other tools to built, test and push
 
 [Example 2](https://www.google.com) 
 
-# Installing
+## Installing
 
 A step by step of examples that tell you how to get a development environment running
 
