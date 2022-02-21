@@ -50,3 +50,8 @@ See also the list of
 [contributors](https://github.com/FranciscoCoder/todo-list)
 
 who participated in this project
+
+## License
+
+This project is licensed under the [CCO 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.es)
+Creative Commons License - see the [LICENSE.md](https://github.com/santisoler/cc-licenses/blob/main/README.md) file for details
